@@ -1,1 +1,3 @@
-console.log('Hello Git!')
+function signup(){
+    return "signup successful";
+}
