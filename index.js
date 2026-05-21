@@ -1,3 +1,3 @@
 function login() {
-    return logged in!";"
+    "return logged in!;"
 }
